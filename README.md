@@ -13,10 +13,10 @@
 - The study demonstrated significant insights into the strengths and weaknesses of each algorithm, providing valuable information for selecting appropriate techniques in medical data analysis.
 
 **Student Daily Attendance Analysis (_June 2024_)**
-  Conducted exploratory data analysis (EDA), segmentation, and clustering on daily student attendance data using Python, providing insights into attendance trends and patterns for beginner-level understanding.
+- Conducted exploratory data analysis (EDA), segmentation, and clustering on daily student attendance data using Python, providing insights into attendance trends and patterns for beginner-level understanding.
 
 **Heart Disease Prediction using Multilayer Perceptron Classifier with Bayessian Hyperparameter Optimization (_June 2024_)**
-  Tried implementing Heart Disease Prediction using Multilayer Perceptron Classifier with Bayesian Optimization hyperparameter tuning, showcasing foundational skills in machine learning and optimization techniques.
+- Tried implementing Heart Disease Prediction using Multilayer Perceptron Classifier with Bayesian Optimization hyperparameter tuning, showcasing foundational skills in machine learning and optimization techniques.
 
 **Database Systems Course | Group Project (_December 2023_)**
 [Portfolio](https://portfolioamaliazam.my.canva.site/database-systems-project)
